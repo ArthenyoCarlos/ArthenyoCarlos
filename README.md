@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou Arthenyo Carlos
 
-<!--
-**ArthenyoCarlos/ArthenyoCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Back-end Engineer** com experiência em desenvolvimento de APIs REST, integrações corporativas e sistemas de gestão empresarial.
 
-Here are some ideas to get you started:
+Atuo com foco em arquitetura limpa, boas práticas de código e construção de soluções escaláveis utilizando o ecossistema Spring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Stack Principal
+
+- **Java 8+**
+- **Spring Boot**
+- Spring Data JPA
+- Spring Security (JWT)
+- PostgreSQL & Oracle
+- Docker
+- Flyway (Versionamento de Banco)
+- Kafka / Mensageria
+- Maven
+- Git & GitHub
+
+---
+
+## 🏗️ O que eu construo
+
+- APIs REST para sistemas corporativos
+- Integrações com ERP
+- Sistemas de gestão (frotas, cargas, manutenção)
+- Controle de autenticação e autorização
+- Geração de relatórios PDF
+- Arquitetura monolítica modular
+
+---
+
+## 📚 Formação
+
+🎓 Bacharel em Ciência da Computação  
+Faculdade Católica da Paraíba
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/arthenyocarlos
+- 📧 Email: arthenyocarlos19@gmail.com
+
+---
+
+⚡ Sempre buscando evoluir tecnicamente e construir soluções robustas com Java e Spring.
