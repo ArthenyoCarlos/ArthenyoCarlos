@@ -17,20 +17,15 @@ Checkout de Black Friday com **100 unidades em estoque e milhares de compradores
 
 `Java 25` `Spring Boot` `PostgreSQL` `Flyway` `Redis` `RabbitMQ` `Docker` `k6`
 
-### 🖥️ [NexusIT](https://github.com/ArthenyoCarlos/nexusit)
-Painel web para a equipe de TI centralizar o conhecimento da infraestrutura: servidores, monitoramento com gráficos do Zabbix e acesso remoto. Mais de 170 commits.
-
-`Java 21` `Spring Boot` `Spring Security + JWT` `PostgreSQL` `Flyway` `WebSocket` `React` `Docker`
-
 ### 📨 [Notification Service](https://github.com/ArthenyoCarlos/notification-service)
 Serviço de notificações por e-mail com mensageria: recebe pedidos por API REST, processa por fila, tenta de novo quando falha e manda para uma *Dead Letter Queue* o que não deu certo. Templates guardados no Redis.
 
 `Java 21` `Spring Boot` `RabbitMQ` `DLQ` `Redis` `Docker`
 
 ### 🧩 [Sudoku](https://github.com/ArthenyoCarlos/sudoku)
-Sudoku jogável no terminal, em Java puro, com validação de jogadas e do tabuleiro. Projeto para praticar orientação a objetos.
+Sudoku jogável no terminal, em Java puro: gera um tabuleiro aleatório a cada partida, valida as regras de linha, coluna e bloco e permite desfazer jogadas. Projeto para praticar orientação a objetos.
 
-`Java` `POO`
+`Java 21` `POO`
 
 ---
 
