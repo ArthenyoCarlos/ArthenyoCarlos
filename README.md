@@ -24,9 +24,18 @@ Sudoku jogável no terminal, em Java puro: gera um tabuleiro aleatório a cada p
 
 ---
 
+## 📂 Outros projetos
+
+- **[ACCatalog](https://github.com/ArthenyoCarlos/ACCatalog)** — API de catálogo de produtos com autenticação OAuth2/JWT, validações customizadas e testes unitários e de integração. `Java 17` `Spring Security` `JUnit`
+- **[accommercer](https://github.com/ArthenyoCarlos/accommercer)** — API de e-commerce com produtos, pedidos, pagamentos e controle de acesso por perfil. `Java 17` `Spring Security` `OAuth2`
+- **[desafioPicPay](https://github.com/ArthenyoCarlos/desafioPicPay)** — Transferências entre usuários com validação de saldo e regras por tipo de usuário. `Java 17` `Spring Boot`
+- **[dslist](https://github.com/ArthenyoCarlos/dslist)** — API de listas de games com projeções e relacionamentos no JPA. `Java 17` `Spring Boot` `PostgreSQL`
+
+---
+
 ## 🧰 Tecnologias
 
-- **Back-end:** Java · Spring Boot · Spring Data JPA · Spring Security (JWT) · APIs REST
+- **Back-end:** Java · Spring Boot · Spring Data JPA · Spring Security (JWT · OAuth2) · APIs REST · JUnit
 - **Banco de dados:** PostgreSQL · Oracle · Flyway · Redis
 - **Mensageria:** RabbitMQ
 - **Infra e ferramentas:** Docker · Docker Compose · Git · Maven · Linux · k6
